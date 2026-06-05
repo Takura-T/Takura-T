@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey!+I'm+Toshi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend+Developer+%7C+Java+%26+Go+Enthusiast&descAlignY=58&descSize=20" width="100%"/>
+# Hey! I'm Toshi 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Building+things+that+scale+%F0%9F%9A%80;Java+%2B+Go+%3D+%E2%9D%A4%EF%B8%8F;Coffee-driven+development+%E2%98%95;If+it+runs+in+Docker%2C+it+runs+everywhere+%F0%9F%90%B3)](https://git.io/typing-svg)
+### Backend Developer · Java & Go Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Building+things+that+scale+%F0%9F%9A%80;Java+%2B+Go+%3D+%E2%9D%A4%EF%B8%8F;Coffee-driven+development+%E2%98%95;If+it+runs+in+Docker%2C+it+runs+everywhere+%F0%9F%90%B3)](https://git.io/typing-svg)
 
 </div>
 
