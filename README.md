@@ -72,24 +72,15 @@
       <a href="https://github.com/Takura-T/go-scheduler">
         <img src="https://img.shields.io/badge/-go--scheduler-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
       </a>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-WIP-yellow?style=flat-square"/>
-      <br/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🚧_Under_Construction-WIP-orange?style=for-the-badge"/>
+      <br/><br/>
       <sub>⏰ Lightweight task scheduler written in Go</sub>
     </td>
   </tr>
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Takura-T&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takura-T&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
